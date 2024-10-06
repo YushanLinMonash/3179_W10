@@ -1,38 +1,43 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Electricity Income by State",
+    "title": "Electricity Income by State (Normalized by Population, Amplified)",
     "width": 800,
     "height": 400,
     "projection": {"type": "mercator"},
     "data": {
-      "url": "https://raw.githubusercontent.com/YushanLinMonash/3179_W9HW/refs/heads/main/js/ne_110m_au.json",
-      "format": {"type": "topojson", "feature": "ne_10m_admin_1_states_provinces"}
+        "url": "https://raw.githubusercontent.com/YushanLinMonash/3179_W9HW/refs/heads/main/js/ne_110m_au.json",
+        "format": {"type": "topojson", "feature": "ne_10m_admin_1_states_provinces"}
     },
     "transform": [
-      {
+        {
         "lookup": "properties.name",
         "from": {
-          "data": {
+            "data": {
             "url": "https://raw.githubusercontent.com/YushanLinMonash/3179_W9HW/refs/heads/main/data/Electricity_sub_state.csv",
             "format": {"type": "csv"}
-          },
-          "key": "State",
-          "fields": ["Income"]
+            },
+            "key": "State",
+            "fields": ["Income", "Population"]
         }
-      },
-      {"calculate": "datum.Income + 0.1", "as": "Electricity Income"}
+        },
+        {
+        "calculate": "((datum.Income + 0.1) / (datum.Population + 0.1)) * 100000000",
+        "as": "Electricity Income per Capita"
+        }
     ],
     "mark": {"type": "geoshape"},
     "encoding": {
-      "color": {
-        "field": "Electricity Income",
+        "color": {
+        "field": "Electricity Income per Capita",
         "type": "quantitative",
         "scale": {"type": "log"},
-        "title": "Electricity Income"
-      },
-      "tooltip": [
+        "title": "Electricity Income per Capita ($/person)"
+        },
+        "tooltip": [
         {"field": "properties.name", "type": "nominal", "title": "State"},
-        {"field": "Income", "type": "quantitative", "title": "Electricity Income"}
-      ]
+        {"field": "Income", "type": "quantitative", "title": "Total Electricity Income"},
+        {"field": "Population", "type": "quantitative", "title": "Population"},
+        {"field": "Electricity Income per Capita", "type": "quantitative", "title": "Income per Capita"}
+        ]
     }
   }
