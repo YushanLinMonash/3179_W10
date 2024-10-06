@@ -13,17 +13,11 @@
 
 <body>
     <h1> Week 10 Homework Interactive Vega-Lite Map</h1>
-    <div id="vegalitestackedbar"></div>
-    <div id="vegalitemap"></div>
-    
-    <script type="text/javascript">
-        var vg_1 = "W10Map.json";  <!-- Update the file path to match your file -->
-        vegaEmbed("#vegalitemap", vg_1).then(function(result) {
-        // Access the Vega view instance
-        }).catch(console.error);
+    <div id="vegalitemap"></div> <!-- Only one div is needed now -->
 
-        var vg_2 = "W10HW_js.json";  <!-- Update the file path to match your file -->
-        vegaEmbed("#vegalitestackedbar", vg_2).then(function(result) {
+    <script type="text/javascript">
+        var vg_1 = "combine.json";  <!-- Use combine.json as the only file -->
+        vegaEmbed("#vegalitemap", vg_1).then(function(result) {
         // Access the Vega view instance
         }).catch(console.error);
     </script>
