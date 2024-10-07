@@ -1,0 +1,913 @@
+Jurisdiction,Year,Measure,Unit,Quantity
+AUS,2004-05,Energy consumption,PJ,5399.2
+AUS,2004-05,Energy consumption per capita,GJ/person,267.594
+AUS,2004-05,Energy intensity,GJ/$ million,3577.349
+AUS,2004-05,Energy productivity,$ million/PJ,279.537
+AUS,2004-05,GDP,$ million,1509274
+AUS,2004-05,Population,Number,20176844
+AUS,2005-06,Energy consumption,PJ,5546.742
+AUS,2005-06,Energy consumption per capita,GJ/person,271.221
+AUS,2005-06,Energy intensity,GJ/$ million,3576.561
+AUS,2005-06,Energy productivity,$ million/PJ,279.598
+AUS,2005-06,GDP,$ million,1550859
+AUS,2005-06,Population,Number,20450966
+AUS,2006-07,Energy consumption,PJ,5723.991
+AUS,2006-07,Energy consumption per capita,GJ/person,274.827
+AUS,2006-07,Energy intensity,GJ/$ million,3556.645
+AUS,2006-07,Energy productivity,$ million/PJ,281.164
+AUS,2006-07,GDP,$ million,1609379
+AUS,2006-07,Population,Number,20827622
+AUS,2007-08,Energy consumption,PJ,5738.33
+AUS,2007-08,Energy consumption per capita,GJ/person,270.049
+AUS,2007-08,Energy intensity,GJ/$ million,3442.113
+AUS,2007-08,Energy productivity,$ million/PJ,290.519
+AUS,2007-08,GDP,$ million,1667095
+AUS,2007-08,Population,Number,21249199
+AUS,2008-09,Energy consumption,PJ,5844.233
+AUS,2008-09,Energy consumption per capita,GJ/person,269.423
+AUS,2008-09,Energy intensity,GJ/$ million,3440.524
+AUS,2008-09,Energy productivity,$ million/PJ,290.653
+AUS,2008-09,GDP,$ million,1698646
+AUS,2008-09,Population,Number,21691653
+AUS,2009-10,Energy consumption,PJ,5823.803
+AUS,2009-10,Energy consumption per capita,GJ/person,264.337
+AUS,2009-10,Energy intensity,GJ/$ million,3353.823
+AUS,2009-10,Energy productivity,$ million/PJ,298.167
+AUS,2009-10,GDP,$ million,1736467
+AUS,2009-10,Population,Number,22031750
+AUS,2010-11,Energy consumption,PJ,5902.889
+AUS,2010-11,Energy consumption per capita,GJ/person,264.229
+AUS,2010-11,Energy intensity,GJ/$ million,3319.404
+AUS,2010-11,Energy productivity,$ million/PJ,301.259
+AUS,2010-11,GDP,$ million,1778298
+AUS,2010-11,Population,Number,22340024
+AUS,2011-12,Energy consumption,PJ,5888.427
+AUS,2011-12,Energy consumption per capita,GJ/person,259.02
+AUS,2011-12,Energy intensity,GJ/$ million,3186.414
+AUS,2011-12,Energy productivity,$ million/PJ,313.832
+AUS,2011-12,GDP,$ million,1847979
+AUS,2011-12,Population,Number,22733465
+AUS,2012-13,Energy consumption,PJ,5916.732
+AUS,2012-13,Energy consumption per capita,GJ/person,255.824
+AUS,2012-13,Energy intensity,GJ/$ million,3120.407
+AUS,2012-13,Energy productivity,$ million/PJ,320.471
+AUS,2012-13,GDP,$ million,1896141
+AUS,2012-13,Population,Number,23128129
+AUS,2013-14,Energy consumption,PJ,5870.951
+AUS,2013-14,Energy consumption per capita,GJ/person,250.086
+AUS,2013-14,Energy intensity,GJ/$ million,3017.582
+AUS,2013-14,Energy productivity,$ million/PJ,331.391
+AUS,2013-14,GDP,$ million,1945581
+AUS,2013-14,Population,Number,23475686
+AUS,2014-15,Energy consumption,PJ,5898.418
+AUS,2014-15,Energy consumption per capita,GJ/person,247.666
+AUS,2014-15,Energy intensity,GJ/$ million,2966.386
+AUS,2014-15,Energy productivity,$ million/PJ,337.111
+AUS,2014-15,GDP,$ million,1988419
+AUS,2014-15,Population,Number,23815995
+AUS,2015-16,Energy consumption,PJ,6034.872
+AUS,2015-16,Energy consumption per capita,GJ/person,249.469
+AUS,2015-16,Energy intensity,GJ/$ million,2952.944
+AUS,2015-16,Energy productivity,$ million/PJ,338.645
+AUS,2015-16,GDP,$ million,2043680
+AUS,2015-16,Population,Number,24190907
+AUS,2016-17,Energy consumption,PJ,6104.651
+AUS,2016-17,Energy consumption per capita,GJ/person,248.231
+AUS,2016-17,Energy intensity,GJ/$ million,2919.395
+AUS,2016-17,Energy productivity,$ million/PJ,342.537
+AUS,2016-17,GDP,$ million,2091067
+AUS,2016-17,Population,Number,24592588
+AUS,2017-18,Energy consumption,PJ,6168.093
+AUS,2017-18,Energy consumption per capita,GJ/person,247.087
+AUS,2017-18,Energy intensity,GJ/$ million,2866.426
+AUS,2017-18,Energy productivity,$ million/PJ,348.867
+AUS,2017-18,GDP,$ million,2151841
+AUS,2017-18,Population,Number,24963258
+AUS,2018-19,Energy consumption,PJ,6188.282
+AUS,2018-19,Energy consumption per capita,GJ/person,244.26
+AUS,2018-19,Energy intensity,GJ/$ million,2814.423
+AUS,2018-19,Energy productivity,$ million/PJ,355.313
+AUS,2018-19,GDP,$ million,2198775
+AUS,2018-19,Population,Number,25334826
+AUS,2019-20,Energy consumption,PJ,6001.048
+AUS,2019-20,Energy consumption per capita,GJ/person,233.966
+AUS,2019-20,Energy intensity,GJ/$ million,2738.434
+AUS,2019-20,Energy productivity,$ million/PJ,365.172
+AUS,2019-20,GDP,$ million,2191416
+AUS,2019-20,Population,Number,25649248
+AUS,2020-21,Energy consumption,PJ,5769.218
+AUS,2020-21,Energy consumption per capita,GJ/person,224.611
+AUS,2020-21,Energy intensity,GJ/$ million,2578.197
+AUS,2020-21,Energy productivity,$ million/PJ,387.868
+AUS,2020-21,GDP,$ million,2237695
+AUS,2020-21,Population,Number,25685412
+AUS,2021-22,Energy consumption,PJ,5765.137
+AUS,2021-22,Energy consumption per capita,GJ/person,221.613
+AUS,2021-22,Energy intensity,GJ/$ million,2470.892
+AUS,2021-22,Energy productivity,$ million/PJ,404.712
+AUS,2021-22,GDP,$ million,2333221
+AUS,2021-22,Population,Number,26014399
+AUS,2022-23,Energy consumption,PJ,5882.206
+AUS,2022-23,Energy consumption per capita,GJ/person,220.647
+AUS,2022-23,Energy intensity,GJ/$ million,2447.234
+AUS,2022-23,Energy productivity,$ million/PJ,408.625
+AUS,2022-23,GDP,$ million,2403614
+AUS,2022-23,Population,Number,26658948
+NSW,2004-05,Energy consumption,PJ,1544.916
+NSW,2004-05,Energy consumption per capita,GJ/person,219.929
+NSW,2004-05,Energy intensity,GJ/$ million,2934.843
+NSW,2004-05,Energy productivity,$ million/PJ,340.734
+NSW,2004-05,GDP,$ million,526405
+NSW,2004-05,Population,Number,7024605
+NSW,2005-06,Energy consumption,PJ,1545.985
+NSW,2005-06,Energy consumption per capita,GJ/person,218.425
+NSW,2005-06,Energy intensity,GJ/$ million,2899.528
+NSW,2005-06,Energy productivity,$ million/PJ,344.884
+NSW,2005-06,GDP,$ million,533185
+NSW,2005-06,Population,Number,7077860
+NSW,2006-07,Energy consumption,PJ,1568.894
+NSW,2006-07,Energy consumption per capita,GJ/person,218.606
+NSW,2006-07,Energy intensity,GJ/$ million,2885.795
+NSW,2006-07,Energy productivity,$ million/PJ,346.525
+NSW,2006-07,GDP,$ million,543661
+NSW,2006-07,Population,Number,7176800
+NSW,2007-08,Energy consumption,PJ,1610.708
+NSW,2007-08,Energy consumption per capita,GJ/person,220.892
+NSW,2007-08,Energy intensity,GJ/$ million,2898.87
+NSW,2007-08,Energy productivity,$ million/PJ,344.962
+NSW,2007-08,GDP,$ million,555633
+NSW,2007-08,Population,Number,7291829
+NSW,2008-09,Energy consumption,PJ,1593.538
+NSW,2008-09,Energy consumption per capita,GJ/person,215.095
+NSW,2008-09,Energy intensity,GJ/$ million,2825.337
+NSW,2008-09,Energy productivity,$ million/PJ,353.94
+NSW,2008-09,GDP,$ million,564017
+NSW,2008-09,Population,Number,7408540
+NSW,2009-10,Energy consumption,PJ,1645.288
+NSW,2009-10,Energy consumption per capita,GJ/person,219.195
+NSW,2009-10,Energy intensity,GJ/$ million,2867.2
+NSW,2009-10,Energy productivity,$ million/PJ,348.772
+NSW,2009-10,GDP,$ million,573831
+NSW,2009-10,Population,Number,7506058
+NSW,2010-11,Energy consumption,PJ,1668.025
+NSW,2010-11,Energy consumption per capita,GJ/person,219.867
+NSW,2010-11,Energy intensity,GJ/$ million,2848.296
+NSW,2010-11,Energy productivity,$ million/PJ,351.087
+NSW,2010-11,GDP,$ million,585622
+NSW,2010-11,Population,Number,7586514
+NSW,2011-12,Energy consumption,PJ,1621.305
+NSW,2011-12,Energy consumption per capita,GJ/person,211.086
+NSW,2011-12,Energy intensity,GJ/$ million,2700.266
+NSW,2011-12,Energy productivity,$ million/PJ,370.334
+NSW,2011-12,GDP,$ million,600424
+NSW,2011-12,Population,Number,7680783
+NSW,2012-13,Energy consumption,PJ,1568.427
+NSW,2012-13,Energy consumption per capita,GJ/person,201.409
+NSW,2012-13,Energy intensity,GJ/$ million,2554.254
+NSW,2012-13,Energy productivity,$ million/PJ,391.504
+NSW,2012-13,GDP,$ million,614045
+NSW,2012-13,Population,Number,7787289
+NSW,2013-14,Energy consumption,PJ,1526.538
+NSW,2013-14,Energy consumption per capita,GJ/person,193.302
+NSW,2013-14,Energy intensity,GJ/$ million,2431.816
+NSW,2013-14,Energy productivity,$ million/PJ,411.215
+NSW,2013-14,GDP,$ million,627736
+NSW,2013-14,Population,Number,7897152
+NSW,2014-15,Energy consumption,PJ,1478.836
+NSW,2014-15,Energy consumption per capita,GJ/person,184.578
+NSW,2014-15,Energy intensity,GJ/$ million,2292.602
+NSW,2014-15,Energy productivity,$ million/PJ,436.186
+NSW,2014-15,GDP,$ million,645047
+NSW,2014-15,Population,Number,8011981
+NSW,2015-16,Energy consumption,PJ,1524.256
+NSW,2015-16,Energy consumption per capita,GJ/person,187.348
+NSW,2015-16,Energy intensity,GJ/$ million,2277.181
+NSW,2015-16,Energy productivity,$ million/PJ,439.139
+NSW,2015-16,GDP,$ million,669361
+NSW,2015-16,Population,Number,8135962
+NSW,2016-17,Energy consumption,PJ,1533.049
+NSW,2016-17,Energy consumption per capita,GJ/person,185.367
+NSW,2016-17,Energy intensity,GJ/$ million,2231.13
+NSW,2016-17,Energy productivity,$ million/PJ,448.203
+NSW,2016-17,GDP,$ million,687118
+NSW,2016-17,Population,Number,8270362
+NSW,2017-18,Energy consumption,PJ,1564.673
+NSW,2017-18,Energy consumption per capita,GJ/person,186.703
+NSW,2017-18,Energy intensity,GJ/$ million,2224.651
+NSW,2017-18,Energy productivity,$ million/PJ,449.509
+NSW,2017-18,GDP,$ million,703334
+NSW,2017-18,Population,Number,8380557
+NSW,2018-19,Energy consumption,PJ,1555.625
+NSW,2018-19,Energy consumption per capita,GJ/person,183.393
+NSW,2018-19,Energy intensity,GJ/$ million,2153.454
+NSW,2018-19,Energy productivity,$ million/PJ,464.37
+NSW,2018-19,GDP,$ million,722386
+NSW,2018-19,Population,Number,8482478
+NSW,2019-20,Energy consumption,PJ,1477.818
+NSW,2019-20,Energy consumption per capita,GJ/person,172.733
+NSW,2019-20,Energy intensity,GJ/$ million,2060.898
+NSW,2019-20,Energy productivity,$ million/PJ,485.225
+NSW,2019-20,GDP,$ million,717075
+NSW,2019-20,Population,Number,8555513
+NSW,2020-21,Energy consumption,PJ,1401.642
+NSW,2020-21,Energy consumption per capita,GJ/person,163.943
+NSW,2020-21,Energy intensity,GJ/$ million,1909.177
+NSW,2020-21,Energy productivity,$ million/PJ,523.786
+NSW,2020-21,GDP,$ million,734160
+NSW,2020-21,Population,Number,8549570
+NSW,2021-22,Energy consumption,PJ,1374.387
+NSW,2021-22,Energy consumption per capita,GJ/person,159.375
+NSW,2021-22,Energy intensity,GJ/$ million,1824.031
+NSW,2021-22,Energy productivity,$ million/PJ,548.236
+NSW,2021-22,GDP,$ million,753489
+NSW,2021-22,Population,Number,8623619
+NSW,2022-23,Energy consumption,PJ,1439.191
+NSW,2022-23,Energy consumption per capita,GJ/person,163.332
+NSW,2022-23,Energy intensity,GJ/$ million,1840.741
+NSW,2022-23,Energy productivity,$ million/PJ,543.259
+NSW,2022-23,GDP,$ million,781854
+NSW,2022-23,Population,Number,8811429
+NT,2004-05,Energy consumption,PJ,61.536
+NT,2004-05,Energy consumption per capita,GJ/person,298.855
+NT,2004-05,Energy intensity,GJ/$ million,3388.161
+NT,2004-05,Energy productivity,$ million/PJ,295.145
+NT,2004-05,GDP,$ million,18162
+NT,2004-05,Population,Number,205905
+NT,2005-06,Energy consumption,PJ,72.998
+NT,2005-06,Energy consumption per capita,GJ/person,349.179
+NT,2005-06,Energy intensity,GJ/$ million,3771.349
+NT,2005-06,Energy productivity,$ million/PJ,265.157
+NT,2005-06,GDP,$ million,19356
+NT,2005-06,Population,Number,209057
+NT,2006-07,Energy consumption,PJ,82.787
+NT,2006-07,Energy consumption per capita,GJ/person,387.313
+NT,2006-07,Energy intensity,GJ/$ million,3806.317
+NT,2006-07,Energy productivity,$ million/PJ,262.721
+NT,2006-07,GDP,$ million,21750
+NT,2006-07,Population,Number,213748
+NT,2007-08,Energy consumption,PJ,95.995
+NT,2007-08,Energy consumption per capita,GJ/person,436.589
+NT,2007-08,Energy intensity,GJ/$ million,4367.955
+NT,2007-08,Energy productivity,$ million/PJ,228.94
+NT,2007-08,GDP,$ million,21977
+NT,2007-08,Population,Number,219874
+NT,2008-09,Energy consumption,PJ,95.044
+NT,2008-09,Energy consumption per capita,GJ/person,420.5
+NT,2008-09,Energy intensity,GJ/$ million,3986.261
+NT,2008-09,Energy productivity,$ million/PJ,250.862
+NT,2008-09,GDP,$ million,23843
+NT,2008-09,Population,Number,226027
+NT,2009-10,Energy consumption,PJ,94.174
+NT,2009-10,Energy consumption per capita,GJ/person,409.847
+NT,2009-10,Energy intensity,GJ/$ million,3968.219
+NT,2009-10,Energy productivity,$ million/PJ,252.002
+NT,2009-10,GDP,$ million,23732
+NT,2009-10,Population,Number,229778
+NT,2010-11,Energy consumption,PJ,99.786
+NT,2010-11,Energy consumption per capita,GJ/person,431.428
+NT,2010-11,Energy intensity,GJ/$ million,4087.235
+NT,2010-11,Energy productivity,$ million/PJ,244.664
+NT,2010-11,GDP,$ million,24414
+NT,2010-11,Population,Number,231292
+NT,2011-12,Energy consumption,PJ,98.194
+NT,2011-12,Energy consumption per capita,GJ/person,416.225
+NT,2011-12,Energy intensity,GJ/$ million,3867.263
+NT,2011-12,Energy productivity,$ million/PJ,258.581
+NT,2011-12,GDP,$ million,25391
+NT,2011-12,Population,Number,235915
+NT,2012-13,Energy consumption,PJ,100.156
+NT,2012-13,Energy consumption per capita,GJ/person,414.344
+NT,2012-13,Energy intensity,GJ/$ million,3693.068
+NT,2012-13,Energy productivity,$ million/PJ,270.778
+NT,2012-13,GDP,$ million,27120
+NT,2012-13,Population,Number,241722
+NT,2013-14,Energy consumption,PJ,99.141
+NT,2013-14,Energy consumption per capita,GJ/person,408.168
+NT,2013-14,Energy intensity,GJ/$ million,3611.711
+NT,2013-14,Energy productivity,$ million/PJ,276.877
+NT,2013-14,GDP,$ million,27450
+NT,2013-14,Population,Number,242894
+NT,2014-15,Energy consumption,PJ,83.987
+NT,2014-15,Energy consumption per capita,GJ/person,343.237
+NT,2014-15,Energy intensity,GJ/$ million,3019.386
+NT,2014-15,Energy productivity,$ million/PJ,331.193
+NT,2014-15,GDP,$ million,27816
+NT,2014-15,Population,Number,244692
+NT,2015-16,Energy consumption,PJ,83.919
+NT,2015-16,Energy consumption per capita,GJ/person,341.581
+NT,2015-16,Energy intensity,GJ/$ million,2958.332
+NT,2015-16,Energy productivity,$ million/PJ,338.028
+NT,2015-16,GDP,$ million,28367
+NT,2015-16,Population,Number,245678
+NT,2016-17,Energy consumption,PJ,83.32
+NT,2016-17,Energy consumption per capita,GJ/person,336.764
+NT,2016-17,Energy intensity,GJ/$ million,2894.85
+NT,2016-17,Energy productivity,$ million/PJ,345.441
+NT,2016-17,GDP,$ million,28782
+NT,2016-17,Population,Number,247412
+NT,2017-18,Energy consumption,PJ,90.161
+NT,2017-18,Energy consumption per capita,GJ/person,364.884
+NT,2017-18,Energy intensity,GJ/$ million,3071.302
+NT,2017-18,Energy productivity,$ million/PJ,325.595
+NT,2017-18,GDP,$ million,29356
+NT,2017-18,Population,Number,247095
+NT,2018-19,Energy consumption,PJ,133.022
+NT,2018-19,Energy consumption per capita,GJ/person,539.514
+NT,2018-19,Energy intensity,GJ/$ million,4583.809
+NT,2018-19,Energy productivity,$ million/PJ,218.159
+NT,2018-19,GDP,$ million,29020
+NT,2018-19,Population,Number,246559
+NT,2019-20,Energy consumption,PJ,146.499
+NT,2019-20,Energy consumption per capita,GJ/person,592.089
+NT,2019-20,Energy intensity,GJ/$ million,4762.969
+NT,2019-20,Energy productivity,$ million/PJ,209.953
+NT,2019-20,GDP,$ million,30758
+NT,2019-20,Population,Number,247428
+NT,2020-21,Energy consumption,PJ,145.341
+NT,2020-21,Energy consumption per capita,GJ/person,585.695
+NT,2020-21,Energy intensity,GJ/$ million,4804.18
+NT,2020-21,Energy productivity,$ million/PJ,208.152
+NT,2020-21,GDP,$ million,30253
+NT,2020-21,Population,Number,248151
+NT,2021-22,Energy consumption,PJ,149.773
+NT,2021-22,Energy consumption per capita,GJ/person,598.545
+NT,2021-22,Energy intensity,GJ/$ million,4711.02
+NT,2021-22,Energy productivity,$ million/PJ,212.268
+NT,2021-22,GDP,$ million,31792
+NT,2021-22,Population,Number,250228
+NT,2022-23,Energy consumption,PJ,129.592
+NT,2022-23,Energy consumption per capita,GJ/person,512.312
+NT,2022-23,Energy intensity,GJ/$ million,4302.094
+NT,2022-23,Energy productivity,$ million/PJ,232.445
+NT,2022-23,GDP,$ million,30123
+NT,2022-23,Population,Number,252955
+QLD,2004-05,Energy consumption,PJ,1225.086
+QLD,2004-05,Energy consumption per capita,GJ/person,312.642
+QLD,2004-05,Energy intensity,GJ/$ million,4386.604
+QLD,2004-05,Energy productivity,$ million/PJ,227.967
+QLD,2004-05,GDP,$ million,279279
+QLD,2004-05,Population,Number,3918494
+QLD,2005-06,Energy consumption,PJ,1279.525
+QLD,2005-06,Energy consumption per capita,GJ/person,319.243
+QLD,2005-06,Energy intensity,GJ/$ million,4356.837
+QLD,2005-06,Energy productivity,$ million/PJ,229.524
+QLD,2005-06,GDP,$ million,293682
+QLD,2005-06,Population,Number,4007992
+QLD,2006-07,Energy consumption,PJ,1328.997
+QLD,2006-07,Energy consumption per capita,GJ/person,323.277
+QLD,2006-07,Energy intensity,GJ/$ million,4238.859
+QLD,2006-07,Energy productivity,$ million/PJ,235.913
+QLD,2006-07,GDP,$ million,313527
+QLD,2006-07,Population,Number,4111018
+QLD,2007-08,Energy consumption,PJ,1289.546
+QLD,2007-08,Energy consumption per capita,GJ/person,305.615
+QLD,2007-08,Energy intensity,GJ/$ million,3926.73
+QLD,2007-08,Energy productivity,$ million/PJ,254.665
+QLD,2007-08,GDP,$ million,328402
+QLD,2007-08,Population,Number,4219505
+QLD,2008-09,Energy consumption,PJ,1345.729
+QLD,2008-09,Energy consumption per capita,GJ/person,310.88
+QLD,2008-09,Energy intensity,GJ/$ million,4043.281
+QLD,2008-09,Energy productivity,$ million/PJ,247.324
+QLD,2008-09,GDP,$ million,332831
+QLD,2008-09,Population,Number,4328771
+QLD,2009-10,Energy consumption,PJ,1294.384
+QLD,2009-10,Energy consumption per capita,GJ/person,293.861
+QLD,2009-10,Energy intensity,GJ/$ million,3807.975
+QLD,2009-10,Energy productivity,$ million/PJ,262.607
+QLD,2009-10,GDP,$ million,339914
+QLD,2009-10,Population,Number,4404744
+QLD,2010-11,Energy consumption,PJ,1249.598
+QLD,2010-11,Energy consumption per capita,GJ/person,279.129
+QLD,2010-11,Energy intensity,GJ/$ million,3645.321
+QLD,2010-11,Energy productivity,$ million/PJ,274.324
+QLD,2010-11,GDP,$ million,342795
+QLD,2010-11,Population,Number,4476778
+QLD,2011-12,Energy consumption,PJ,1314.818
+QLD,2011-12,Energy consumption per capita,GJ/person,287.789
+QLD,2011-12,Energy intensity,GJ/$ million,3624.184
+QLD,2011-12,Energy productivity,$ million/PJ,275.924
+QLD,2011-12,GDP,$ million,362790
+QLD,2011-12,Population,Number,4568687
+QLD,2012-13,Energy consumption,PJ,1334.792
+QLD,2012-13,Energy consumption per capita,GJ/person,286.878
+QLD,2012-13,Energy intensity,GJ/$ million,3577.007
+QLD,2012-13,Energy productivity,$ million/PJ,279.563
+QLD,2012-13,GDP,$ million,373159
+QLD,2012-13,Population,Number,4652824
+QLD,2013-14,Energy consumption,PJ,1338.862
+QLD,2013-14,Energy consumption per capita,GJ/person,283.678
+QLD,2013-14,Energy intensity,GJ/$ million,3517.729
+QLD,2013-14,Energy productivity,$ million/PJ,284.274
+QLD,2013-14,GDP,$ million,380604
+QLD,2013-14,Population,Number,4719653
+QLD,2014-15,Energy consumption,PJ,1436.133
+QLD,2014-15,Energy consumption per capita,GJ/person,300.591
+QLD,2014-15,Energy intensity,GJ/$ million,3741.704
+QLD,2014-15,Energy productivity,$ million/PJ,267.258
+QLD,2014-15,GDP,$ million,383818
+QLD,2014-15,Population,Number,4777692
+QLD,2015-16,Energy consumption,PJ,1464.555
+QLD,2015-16,Energy consumption per capita,GJ/person,302.272
+QLD,2015-16,Energy intensity,GJ/$ million,3726.689
+QLD,2015-16,Energy productivity,$ million/PJ,268.335
+QLD,2015-16,GDP,$ million,392991
+QLD,2015-16,Population,Number,4845152
+QLD,2016-17,Energy consumption,PJ,1531.887
+QLD,2016-17,Energy consumption per capita,GJ/person,310.956
+QLD,2016-17,Energy intensity,GJ/$ million,3798.758
+QLD,2016-17,Energy productivity,$ million/PJ,263.244
+QLD,2016-17,GDP,$ million,403260
+QLD,2016-17,Population,Number,4926380
+QLD,2017-18,Energy consumption,PJ,1548.429
+QLD,2017-18,Energy consumption per capita,GJ/person,309.276
+QLD,2017-18,Energy intensity,GJ/$ million,3692.291
+QLD,2017-18,Energy productivity,$ million/PJ,270.835
+QLD,2017-18,GDP,$ million,419368
+QLD,2017-18,Population,Number,5006623
+QLD,2018-19,Energy consumption,PJ,1529.509
+QLD,2018-19,Energy consumption per capita,GJ/person,300.561
+QLD,2018-19,Energy intensity,GJ/$ million,3613.425
+QLD,2018-19,Energy productivity,$ million/PJ,276.746
+QLD,2018-19,GDP,$ million,423285
+QLD,2018-19,Population,Number,5088847
+QLD,2019-20,Energy consumption,PJ,1486.306
+QLD,2019-20,Energy consumption per capita,GJ/person,287.731
+QLD,2019-20,Energy intensity,GJ/$ million,3551.524
+QLD,2019-20,Energy productivity,$ million/PJ,281.569
+QLD,2019-20,GDP,$ million,418498
+QLD,2019-20,Population,Number,5165613
+QLD,2020-21,Energy consumption,PJ,1442.618
+QLD,2020-21,Energy consumption per capita,GJ/person,276.585
+QLD,2020-21,Energy intensity,GJ/$ million,3353.701
+QLD,2020-21,Energy productivity,$ million/PJ,298.178
+QLD,2020-21,GDP,$ million,430157
+QLD,2020-21,Population,Number,5215814
+QLD,2021-22,Energy consumption,PJ,1428.315
+QLD,2021-22,Energy consumption per capita,GJ/person,268.433
+QLD,2021-22,Energy intensity,GJ/$ million,3145.887
+QLD,2021-22,Energy productivity,$ million/PJ,317.875
+QLD,2021-22,GDP,$ million,454026
+QLD,2021-22,Population,Number,5320941
+QLD,2022-23,Energy consumption,PJ,1441.742
+QLD,2022-23,Energy consumption per capita,GJ/person,263.989
+QLD,2022-23,Energy intensity,GJ/$ million,3103.324
+QLD,2022-23,Energy productivity,$ million/PJ,322.235
+QLD,2022-23,GDP,$ million,464580
+QLD,2022-23,Population,Number,5461367
+SA,2004-05,Energy consumption,PJ,355.551
+SA,2004-05,Energy consumption per capita,GJ/person,231.057
+SA,2004-05,Energy intensity,GJ/$ million,3826.05
+SA,2004-05,Energy productivity,$ million/PJ,261.366
+SA,2004-05,GDP,$ million,92929
+SA,2004-05,Population,Number,1538804
+SA,2005-06,Energy consumption,PJ,350.118
+SA,2005-06,Energy consumption per capita,GJ/person,225.515
+SA,2005-06,Energy intensity,GJ/$ million,3716.632
+SA,2005-06,Energy productivity,$ million/PJ,269.061
+SA,2005-06,GDP,$ million,94203
+SA,2005-06,Population,Number,1552529
+SA,2006-07,Energy consumption,PJ,375.46
+SA,2006-07,Energy consumption per capita,GJ/person,239.053
+SA,2006-07,Energy intensity,GJ/$ million,3914.553
+SA,2006-07,Energy productivity,$ million/PJ,255.457
+SA,2006-07,GDP,$ million,95914
+SA,2006-07,Population,Number,1570619
+SA,2007-08,Energy consumption,PJ,372.533
+SA,2007-08,Energy consumption per capita,GJ/person,234.494
+SA,2007-08,Energy intensity,GJ/$ million,3710.561
+SA,2007-08,Energy productivity,$ million/PJ,269.501
+SA,2007-08,GDP,$ million,100398
+SA,2007-08,Population,Number,1588665
+SA,2008-09,Energy consumption,PJ,357.225
+SA,2008-09,Energy consumption per capita,GJ/person,222.03
+SA,2008-09,Energy intensity,GJ/$ million,3463.599
+SA,2008-09,Energy productivity,$ million/PJ,288.717
+SA,2008-09,GDP,$ million,103137
+SA,2008-09,Population,Number,1608902
+SA,2009-10,Energy consumption,PJ,343.727
+SA,2009-10,Energy consumption per capita,GJ/person,211.222
+SA,2009-10,Energy intensity,GJ/$ million,3262.466
+SA,2009-10,Energy productivity,$ million/PJ,306.517
+SA,2009-10,GDP,$ million,105358
+SA,2009-10,Population,Number,1627322
+SA,2010-11,Energy consumption,PJ,342.809
+SA,2010-11,Energy consumption per capita,GJ/person,209.079
+SA,2010-11,Energy intensity,GJ/$ million,3184.215
+SA,2010-11,Energy productivity,$ million/PJ,314.049
+SA,2010-11,GDP,$ million,107659
+SA,2010-11,Population,Number,1639614
+SA,2011-12,Energy consumption,PJ,307.665
+SA,2011-12,Energy consumption per capita,GJ/person,185.706
+SA,2011-12,Energy intensity,GJ/$ million,2828.813
+SA,2011-12,Energy productivity,$ million/PJ,353.505
+SA,2011-12,GDP,$ million,108761
+SA,2011-12,Population,Number,1656725
+SA,2012-13,Energy consumption,PJ,356.279
+SA,2012-13,Energy consumption per capita,GJ/person,213.151
+SA,2012-13,Energy intensity,GJ/$ million,3251.372
+SA,2012-13,Energy productivity,$ million/PJ,307.563
+SA,2012-13,GDP,$ million,109578
+SA,2012-13,Population,Number,1671488
+SA,2013-14,Energy consumption,PJ,337.065
+SA,2013-14,Energy consumption per capita,GJ/person,199.808
+SA,2013-14,Energy intensity,GJ/$ million,3064.116
+SA,2013-14,Energy productivity,$ million/PJ,326.358
+SA,2013-14,GDP,$ million,110004
+SA,2013-14,Population,Number,1686945
+SA,2014-15,Energy consumption,PJ,356.925
+SA,2014-15,Energy consumption per capita,GJ/person,209.874
+SA,2014-15,Energy intensity,GJ/$ million,3208.346
+SA,2014-15,Energy productivity,$ million/PJ,311.687
+SA,2014-15,GDP,$ million,111249
+SA,2014-15,Population,Number,1700668
+SA,2015-16,Energy consumption,PJ,316.387
+SA,2015-16,Energy consumption per capita,GJ/person,184.715
+SA,2015-16,Energy intensity,GJ/$ million,2828.297
+SA,2015-16,Energy productivity,$ million/PJ,353.57
+SA,2015-16,GDP,$ million,111865
+SA,2015-16,Population,Number,1712843
+SA,2016-17,Energy consumption,PJ,287.382
+SA,2016-17,Energy consumption per capita,GJ/person,166.244
+SA,2016-17,Energy intensity,GJ/$ million,2520.56
+SA,2016-17,Energy productivity,$ million/PJ,396.737
+SA,2016-17,GDP,$ million,114015
+SA,2016-17,Population,Number,1728673
+SA,2017-18,Energy consumption,PJ,334.653
+SA,2017-18,Energy consumption per capita,GJ/person,191.653
+SA,2017-18,Energy intensity,GJ/$ million,2870.833
+SA,2017-18,Energy productivity,$ million/PJ,348.331
+SA,2017-18,GDP,$ million,116570
+SA,2017-18,Population,Number,1746137
+SA,2018-19,Energy consumption,PJ,324.507
+SA,2018-19,Energy consumption per capita,GJ/person,183.608
+SA,2018-19,Energy intensity,GJ/$ million,2751.809
+SA,2018-19,Energy productivity,$ million/PJ,363.397
+SA,2018-19,GDP,$ million,117925
+SA,2018-19,Population,Number,1767395
+SA,2019-20,Energy consumption,PJ,317.704
+SA,2019-20,Energy consumption per capita,GJ/person,177.453
+SA,2019-20,Energy intensity,GJ/$ million,2721.253
+SA,2019-20,Energy productivity,$ million/PJ,367.478
+SA,2019-20,GDP,$ million,116749
+SA,2019-20,Population,Number,1790355
+SA,2020-21,Energy consumption,PJ,308.734
+SA,2020-21,Energy consumption per capita,GJ/person,171.271
+SA,2020-21,Energy intensity,GJ/$ million,2521.203
+SA,2020-21,Energy productivity,$ million/PJ,396.636
+SA,2020-21,GDP,$ million,122455
+SA,2020-21,Population,Number,1802601
+SA,2021-22,Energy consumption,PJ,301.274
+SA,2021-22,Energy consumption per capita,GJ/person,165.425
+SA,2021-22,Energy intensity,GJ/$ million,2330.544
+SA,2021-22,Energy productivity,$ million/PJ,429.084
+SA,2021-22,GDP,$ million,129272
+SA,2021-22,Population,Number,1821215
+SA,2022-23,Energy consumption,PJ,300.001
+SA,2022-23,Energy consumption per capita,GJ/person,161.894
+SA,2022-23,Energy intensity,GJ/$ million,2235.326
+SA,2022-23,Energy productivity,$ million/PJ,447.362
+SA,2022-23,GDP,$ million,134209
+SA,2022-23,Population,Number,1853064
+TAS,2004-05,Energy consumption,PJ,107.395
+TAS,2004-05,Energy consumption per capita,GJ/person,220.885
+TAS,2004-05,Energy intensity,GJ/$ million,4196.255
+TAS,2004-05,Energy productivity,$ million/PJ,238.308
+TAS,2004-05,GDP,$ million,25593
+TAS,2004-05,Population,Number,486202
+TAS,2005-06,Energy consumption,PJ,111.574
+TAS,2005-06,Energy consumption per capita,GJ/person,228.026
+TAS,2005-06,Energy intensity,GJ/$ million,4192.294
+TAS,2005-06,Energy productivity,$ million/PJ,238.533
+TAS,2005-06,GDP,$ million,26614
+TAS,2005-06,Population,Number,489302
+TAS,2006-07,Energy consumption,PJ,113.322
+TAS,2006-07,Energy consumption per capita,GJ/person,229.741
+TAS,2006-07,Energy intensity,GJ/$ million,4147.353
+TAS,2006-07,Energy productivity,$ million/PJ,241.118
+TAS,2006-07,GDP,$ million,27324
+TAS,2006-07,Population,Number,493262
+TAS,2007-08,Energy consumption,PJ,115.507
+TAS,2007-08,Energy consumption per capita,GJ/person,231.678
+TAS,2007-08,Energy intensity,GJ/$ million,4055.735
+TAS,2007-08,Energy productivity,$ million/PJ,246.564
+TAS,2007-08,GDP,$ million,28480
+TAS,2007-08,Population,Number,498568
+TAS,2008-09,Energy consumption,PJ,113.795
+TAS,2008-09,Energy consumption per capita,GJ/person,225.625
+TAS,2008-09,Energy intensity,GJ/$ million,3885.763
+TAS,2008-09,Energy productivity,$ million/PJ,257.35
+TAS,2008-09,GDP,$ million,29285
+TAS,2008-09,Population,Number,504353
+TAS,2009-10,Energy consumption,PJ,113.744
+TAS,2009-10,Energy consumption per capita,GJ/person,223.533
+TAS,2009-10,Energy intensity,GJ/$ million,3850.118
+TAS,2009-10,Energy productivity,$ million/PJ,259.732
+TAS,2009-10,GDP,$ million,29543
+TAS,2009-10,Population,Number,508847
+TAS,2010-11,Energy consumption,PJ,113.825
+TAS,2010-11,Energy consumption per capita,GJ/person,222.54
+TAS,2010-11,Energy intensity,GJ/$ million,3762.818
+TAS,2010-11,Energy productivity,$ million/PJ,265.758
+TAS,2010-11,GDP,$ million,30250
+TAS,2010-11,Population,Number,511483
+TAS,2011-12,Energy consumption,PJ,106.97
+TAS,2011-12,Energy consumption per capita,GJ/person,209.039
+TAS,2011-12,Energy intensity,GJ/$ million,3467.548
+TAS,2011-12,Energy productivity,$ million/PJ,288.388
+TAS,2011-12,GDP,$ million,30849
+TAS,2011-12,Population,Number,511724
+TAS,2012-13,Energy consumption,PJ,112.322
+TAS,2012-13,Energy consumption per capita,GJ/person,219.28
+TAS,2012-13,Energy intensity,GJ/$ million,3660.489
+TAS,2012-13,Energy productivity,$ million/PJ,273.188
+TAS,2012-13,GDP,$ million,30685
+TAS,2012-13,Population,Number,512231
+TAS,2013-14,Energy consumption,PJ,108.002
+TAS,2013-14,Energy consumption per capita,GJ/person,210.276
+TAS,2013-14,Energy intensity,GJ/$ million,3466.608
+TAS,2013-14,Energy productivity,$ million/PJ,288.466
+TAS,2013-14,GDP,$ million,31155
+TAS,2013-14,Population,Number,513621
+TAS,2014-15,Energy consumption,PJ,104.927
+TAS,2014-15,Energy consumption per capita,GJ/person,203.696
+TAS,2014-15,Energy intensity,GJ/$ million,3329.445
+TAS,2014-15,Energy productivity,$ million/PJ,300.35
+TAS,2014-15,GDP,$ million,31515
+TAS,2014-15,Population,Number,515117
+TAS,2015-16,Energy consumption,PJ,107.059
+TAS,2015-16,Energy consumption per capita,GJ/person,206.872
+TAS,2015-16,Energy intensity,GJ/$ million,3336.742
+TAS,2015-16,Energy productivity,$ million/PJ,299.694
+TAS,2015-16,GDP,$ million,32085
+TAS,2015-16,Population,Number,517514
+TAS,2016-17,Energy consumption,PJ,107.463
+TAS,2016-17,Energy consumption per capita,GJ/person,204.007
+TAS,2016-17,Energy intensity,GJ/$ million,3309.301
+TAS,2016-17,Energy productivity,$ million/PJ,302.179
+TAS,2016-17,GDP,$ million,32473
+TAS,2016-17,Population,Number,526762
+TAS,2017-18,Energy consumption,PJ,110.54
+TAS,2017-18,Energy consumption per capita,GJ/person,205.736
+TAS,2017-18,Energy intensity,GJ/$ million,3283.345
+TAS,2017-18,Energy productivity,$ million/PJ,304.567
+TAS,2017-18,GDP,$ million,33667
+TAS,2017-18,Population,Number,537291
+TAS,2018-19,Energy consumption,PJ,108.161
+TAS,2018-19,Energy consumption per capita,GJ/person,197.432
+TAS,2018-19,Energy intensity,GJ/$ million,3099.448
+TAS,2018-19,Energy productivity,$ million/PJ,322.638
+TAS,2018-19,GDP,$ million,34897
+TAS,2018-19,Population,Number,547841
+TAS,2019-20,Energy consumption,PJ,100.079
+TAS,2019-20,Energy consumption per capita,GJ/person,179.488
+TAS,2019-20,Energy intensity,GJ/$ million,2865.034
+TAS,2019-20,Energy productivity,$ million/PJ,349.036
+TAS,2019-20,GDP,$ million,34931
+TAS,2019-20,Population,Number,557578
+TAS,2020-21,Energy consumption,PJ,103.108
+TAS,2020-21,Energy consumption per capita,GJ/person,181.772
+TAS,2020-21,Energy intensity,GJ/$ million,2817.322
+TAS,2020-21,Energy productivity,$ million/PJ,354.947
+TAS,2020-21,GDP,$ million,36598
+TAS,2020-21,Population,Number,567239
+TAS,2021-22,Energy consumption,PJ,105.375
+TAS,2021-22,Energy consumption per capita,GJ/person,184.527
+TAS,2021-22,Energy intensity,GJ/$ million,2760.593
+TAS,2021-22,Energy productivity,$ million/PJ,362.241
+TAS,2021-22,GDP,$ million,38171
+TAS,2021-22,Population,Number,571051
+TAS,2022-23,Energy consumption,PJ,105.451
+TAS,2022-23,Energy consumption per capita,GJ/person,183.879
+TAS,2022-23,Energy intensity,GJ/$ million,2733.019
+TAS,2022-23,Energy productivity,$ million/PJ,365.896
+TAS,2022-23,GDP,$ million,38584
+TAS,2022-23,Population,Number,573479
+VIC,2004-05,Energy consumption,PJ,1356.513
+VIC,2004-05,Energy consumption per capita,GJ/person,271.887
+VIC,2004-05,Energy intensity,GJ/$ million,3948.918
+VIC,2004-05,Energy productivity,$ million/PJ,253.234
+VIC,2004-05,GDP,$ million,343515
+VIC,2004-05,Population,Number,4989246
+VIC,2005-06,Energy consumption,PJ,1429.476
+VIC,2005-06,Energy consumption per capita,GJ/person,282.434
+VIC,2005-06,Energy intensity,GJ/$ million,4068.037
+VIC,2005-06,Energy productivity,$ million/PJ,245.819
+VIC,2005-06,GDP,$ million,351392
+VIC,2005-06,Population,Number,5061266
+VIC,2006-07,Energy consumption,PJ,1433.859
+VIC,2006-07,Energy consumption per capita,GJ/person,278.229
+VIC,2006-07,Energy intensity,GJ/$ million,3968.742
+VIC,2006-07,Energy productivity,$ million/PJ,251.969
+VIC,2006-07,GDP,$ million,361288
+VIC,2006-07,Population,Number,5153522
+VIC,2007-08,Energy consumption,PJ,1426.079
+VIC,2007-08,Energy consumption per capita,GJ/person,271.305
+VIC,2007-08,Energy intensity,GJ/$ million,3811.078
+VIC,2007-08,Energy productivity,$ million/PJ,262.393
+VIC,2007-08,GDP,$ million,374193
+VIC,2007-08,Population,Number,5256375
+VIC,2008-09,Energy consumption,PJ,1421.679
+VIC,2008-09,Energy consumption per capita,GJ/person,264.649
+VIC,2008-09,Energy intensity,GJ/$ million,3727.528
+VIC,2008-09,Energy productivity,$ million/PJ,268.274
+VIC,2008-09,GDP,$ million,381400
+VIC,2008-09,Population,Number,5371934
+VIC,2009-10,Energy consumption,PJ,1426.739
+VIC,2009-10,Energy consumption per capita,GJ/person,261.255
+VIC,2009-10,Energy intensity,GJ/$ million,3702.583
+VIC,2009-10,Energy productivity,$ million/PJ,270.082
+VIC,2009-10,GDP,$ million,385336
+VIC,2009-10,Population,Number,5461101
+VIC,2010-11,Energy consumption,PJ,1448.557
+VIC,2010-11,Energy consumption per capita,GJ/person,261.575
+VIC,2010-11,Energy intensity,GJ/$ million,3655.637
+VIC,2010-11,Energy productivity,$ million/PJ,273.55
+VIC,2010-11,GDP,$ million,396253
+VIC,2010-11,Population,Number,5537817
+VIC,2011-12,Energy consumption,PJ,1457.312
+VIC,2011-12,Energy consumption per capita,GJ/person,257.882
+VIC,2011-12,Energy intensity,GJ/$ million,3591.013
+VIC,2011-12,Energy productivity,$ million/PJ,278.473
+VIC,2011-12,GDP,$ million,405822
+VIC,2011-12,Population,Number,5651091
+VIC,2012-13,Energy consumption,PJ,1425.302
+VIC,2012-13,Energy consumption per capita,GJ/person,246.905
+VIC,2012-13,Energy intensity,GJ/$ million,3478.026
+VIC,2012-13,Energy productivity,$ million/PJ,287.519
+VIC,2012-13,GDP,$ million,409802
+VIC,2012-13,Population,Number,5772669
+VIC,2013-14,Energy consumption,PJ,1394.779
+VIC,2013-14,Energy consumption per capita,GJ/person,236.607
+VIC,2013-14,Energy intensity,GJ/$ million,3329.606
+VIC,2013-14,Energy productivity,$ million/PJ,300.336
+VIC,2013-14,GDP,$ million,418902
+VIC,2013-14,Population,Number,5894917
+VIC,2014-15,Energy consumption,PJ,1392.271
+VIC,2014-15,Energy consumption per capita,GJ/person,231.185
+VIC,2014-15,Energy intensity,GJ/$ million,3232.149
+VIC,2014-15,Energy productivity,$ million/PJ,309.392
+VIC,2014-15,GDP,$ million,430757
+VIC,2014-15,Population,Number,6022322
+VIC,2015-16,Energy consumption,PJ,1414.792
+VIC,2015-16,Energy consumption per capita,GJ/person,229.184
+VIC,2015-16,Energy intensity,GJ/$ million,3174.215
+VIC,2015-16,Energy productivity,$ million/PJ,315.038
+VIC,2015-16,GDP,$ million,445714
+VIC,2015-16,Population,Number,6173172
+VIC,2016-17,Energy consumption,PJ,1384.789
+VIC,2016-17,Energy consumption per capita,GJ/person,219.717
+VIC,2016-17,Energy intensity,GJ/$ million,2992.606
+VIC,2016-17,Energy productivity,$ million/PJ,334.157
+VIC,2016-17,GDP,$ million,462737
+VIC,2016-17,Population,Number,6302608
+VIC,2017-18,Energy consumption,PJ,1309.98
+VIC,2017-18,Energy consumption per capita,GJ/person,203.95
+VIC,2017-18,Energy intensity,GJ/$ million,2737.16
+VIC,2017-18,Energy productivity,$ million/PJ,365.342
+VIC,2017-18,GDP,$ million,478591
+VIC,2017-18,Population,Number,6423038
+VIC,2018-19,Energy consumption,PJ,1276.267
+VIC,2018-19,Energy consumption per capita,GJ/person,195.228
+VIC,2018-19,Energy intensity,GJ/$ million,2588.32
+VIC,2018-19,Energy productivity,$ million/PJ,386.351
+VIC,2018-19,GDP,$ million,493087
+VIC,2018-19,Population,Number,6537305
+VIC,2019-20,Energy consumption,PJ,1207.708
+VIC,2019-20,Energy consumption per capita,GJ/person,182.57
+VIC,2019-20,Energy intensity,GJ/$ million,2456.434
+VIC,2019-20,Energy productivity,$ million/PJ,407.094
+VIC,2019-20,GDP,$ million,491651
+VIC,2019-20,Population,Number,6615046
+VIC,2020-21,Energy consumption,PJ,1128.83
+VIC,2020-21,Energy consumption per capita,GJ/person,172.398
+VIC,2020-21,Energy intensity,GJ/$ million,2300.604
+VIC,2020-21,Energy productivity,$ million/PJ,434.668
+VIC,2020-21,GDP,$ million,490667
+VIC,2020-21,Population,Number,6547822
+VIC,2021-22,Energy consumption,PJ,1148.131
+VIC,2021-22,Energy consumption per capita,GJ/person,173.156
+VIC,2021-22,Energy intensity,GJ/$ million,2200.712
+VIC,2021-22,Energy productivity,$ million/PJ,454.398
+VIC,2021-22,GDP,$ million,521709
+VIC,2021-22,Population,Number,6630631
+VIC,2022-23,Energy consumption,PJ,1172.601
+VIC,2022-23,Energy consumption per capita,GJ/person,171.975
+VIC,2022-23,Energy intensity,GJ/$ million,2189.777
+VIC,2022-23,Energy productivity,$ million/PJ,456.668
+VIC,2022-23,GDP,$ million,535489
+VIC,2022-23,Population,Number,6818442
+WA,2004-05,Energy consumption,PJ,748.204
+WA,2004-05,Energy consumption per capita,GJ/person,372.017
+WA,2004-05,Energy intensity,GJ/$ million,3430.223
+WA,2004-05,Energy productivity,$ million/PJ,291.526
+WA,2004-05,GDP,$ million,218121
+WA,2004-05,Population,Number,2011207
+WA,2005-06,Energy consumption,PJ,757.067
+WA,2005-06,Energy consumption per capita,GJ/person,369.196
+WA,2005-06,Energy intensity,GJ/$ million,3307.89
+WA,2005-06,Energy productivity,$ million/PJ,302.308
+WA,2005-06,GDP,$ million,228867
+WA,2005-06,Population,Number,2050581
+WA,2006-07,Energy consumption,PJ,820.67
+WA,2006-07,Energy consumption per capita,GJ/person,389.656
+WA,2006-07,Energy intensity,GJ/$ million,3361.185
+WA,2006-07,Energy productivity,$ million/PJ,297.514
+WA,2006-07,GDP,$ million,244161
+WA,2006-07,Population,Number,2106139
+WA,2007-08,Energy consumption,PJ,827.963
+WA,2007-08,Energy consumption per capita,GJ/person,381.251
+WA,2007-08,Energy intensity,GJ/$ million,3224.443
+WA,2007-08,Energy productivity,$ million/PJ,310.131
+WA,2007-08,GDP,$ million,256777
+WA,2007-08,Population,Number,2171700
+WA,2008-09,Energy consumption,PJ,917.222
+WA,2008-09,Energy consumption per capita,GJ/person,409.428
+WA,2008-09,Energy intensity,GJ/$ million,3489.367
+WA,2008-09,Energy productivity,$ million/PJ,286.585
+WA,2008-09,GDP,$ million,262862
+WA,2008-09,Population,Number,2240250
+WA,2009-10,Energy consumption,PJ,905.748
+WA,2009-10,Energy consumption per capita,GJ/person,395.377
+WA,2009-10,Energy intensity,GJ/$ million,3250.987
+WA,2009-10,Energy productivity,$ million/PJ,307.599
+WA,2009-10,GDP,$ million,278607
+WA,2009-10,Population,Number,2290845
+WA,2010-11,Energy consumption,PJ,980.289
+WA,2010-11,Energy consumption per capita,GJ/person,416.54
+WA,2010-11,Energy intensity,GJ/$ million,3362.196
+WA,2010-11,Energy productivity,$ million/PJ,297.425
+WA,2010-11,GDP,$ million,291562
+WA,2010-11,Population,Number,2353409
+WA,2011-12,Energy consumption,PJ,982.163
+WA,2011-12,Energy consumption per capita,GJ/person,404.931
+WA,2011-12,Energy intensity,GJ/$ million,3110.927
+WA,2011-12,Energy productivity,$ million/PJ,321.448
+WA,2011-12,GDP,$ million,315714
+WA,2011-12,Population,Number,2425507
+WA,2012-13,Energy consumption,PJ,1019.454
+WA,2012-13,Energy consumption per capita,GJ/person,409.922
+WA,2012-13,Energy intensity,GJ/$ million,3045.109
+WA,2012-13,Energy productivity,$ million/PJ,328.395
+WA,2012-13,GDP,$ million,334784
+WA,2012-13,Population,Number,2486944
+WA,2013-14,Energy consumption,PJ,1066.564
+WA,2013-14,Energy consumption per capita,GJ/person,423.642
+WA,2013-14,Energy intensity,GJ/$ million,3012.296
+WA,2013-14,Energy productivity,$ million/PJ,331.973
+WA,2013-14,GDP,$ million,354070
+WA,2013-14,Population,Number,2517608
+WA,2014-15,Energy consumption,PJ,1045.337
+WA,2014-15,Energy consumption per capita,GJ/person,411.441
+WA,2014-15,Energy intensity,GJ/$ million,2886.803
+WA,2014-15,Energy productivity,$ million/PJ,346.404
+WA,2014-15,GDP,$ million,362109
+WA,2014-15,Population,Number,2540672
+WA,2015-16,Energy consumption,PJ,1123.903
+WA,2015-16,Energy consumption per capita,GJ/person,439.715
+WA,2015-16,Energy intensity,GJ/$ million,3071.771
+WA,2015-16,Energy productivity,$ million/PJ,325.545
+WA,2015-16,GDP,$ million,365881
+WA,2015-16,Population,Number,2555978
+WA,2016-17,Energy consumption,PJ,1176.761
+WA,2016-17,Energy consumption per capita,GJ/person,455.1
+WA,2016-17,Energy intensity,GJ/$ million,3248.926
+WA,2016-17,Energy productivity,$ million/PJ,307.794
+WA,2016-17,GDP,$ million,362200
+WA,2016-17,Population,Number,2585720
+WA,2017-18,Energy consumption,PJ,1209.656
+WA,2017-18,Energy consumption per capita,GJ/person,462.09
+WA,2017-18,Energy intensity,GJ/$ million,3267.99
+WA,2017-18,Energy productivity,$ million/PJ,305.998
+WA,2017-18,GDP,$ million,370153
+WA,2017-18,Population,Number,2617792
+WA,2018-19,Energy consumption,PJ,1261.191
+WA,2018-19,Energy consumption per capita,GJ/person,474.199
+WA,2018-19,Energy intensity,GJ/$ million,3351.565
+WA,2018-19,Energy productivity,$ million/PJ,298.368
+WA,2018-19,GDP,$ million,376299
+WA,2018-19,Population,Number,2659625
+WA,2019-20,Energy consumption,PJ,1264.935
+WA,2019-20,Energy consumption per capita,GJ/person,466.265
+WA,2019-20,Energy intensity,GJ/$ million,3322.506
+WA,2019-20,Energy productivity,$ million/PJ,300.978
+WA,2019-20,GDP,$ million,380717
+WA,2019-20,Population,Number,2712912
+WA,2020-21,Energy consumption,PJ,1238.945
+WA,2020-21,Energy consumption per capita,GJ/person,450.629
+WA,2020-21,Energy intensity,GJ/$ million,3150.743
+WA,2020-21,Energy productivity,$ million/PJ,317.385
+WA,2020-21,GDP,$ million,393223
+WA,2020-21,Population,Number,2749365
+WA,2021-22,Energy consumption,PJ,1257.883
+WA,2021-22,Energy consumption per capita,GJ/person,450.564
+WA,2021-22,Energy intensity,GJ/$ million,3107.709
+WA,2021-22,Energy productivity,$ million/PJ,321.78
+WA,2021-22,GDP,$ million,404762
+WA,2021-22,Population,Number,2791794
+WA,2022-23,Energy consumption,PJ,1293.628
+WA,2022-23,Energy consumption per capita,GJ/person,448.671
+WA,2022-23,Energy intensity,GJ/$ million,3089.076
+WA,2022-23,Energy productivity,$ million/PJ,323.721
+WA,2022-23,GDP,$ million,418775
+WA,2022-23,Population,Number,2883245
